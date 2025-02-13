@@ -1,4 +1,4 @@
-# 🌀 Maze-app
+# 🌀 Maze
 ![Logo](Traguardo_Labirinto.ico)
 
 Maze-app is a dynamic application that **randomly generates mazes** for endless fun and challenges! 🎉
