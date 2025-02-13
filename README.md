@@ -1,25 +1,24 @@
 # 🌀 Maze-app
 
-Maze-app is an exciting application that generates random mazes for endless fun! 🎉 Navigate your way through uniquely generated mazes and reach the destination. As you progress through the levels, new challenges await: 🚧
+Maze-app is a dynamic application that **randomly generates mazes** for endless fun and challenges! 🎉
 
-- **Inverted Movement Platforms 🔄:** Platforms that reverse your movement directions.
-- **Unlock Mechanisms 🔓:** Buttons that must be pressed in a specific sequence to unlock the exit.
+## 🎯 Objective
 
----
+The goal of the game is to **reach the finish**. As you progress through the levels, the challenge increases with exciting obstacles!
 
 ## 🚀 Features
 
-- **Random Maze Generation 🔀:** Every maze is uniquely created to give you a fresh challenge each time.
-- **Progressive Difficulty 📈:** Experience escalating challenges as you advance through levels.
-- **Built with Unity & C# 💻:** Developed using C# with Unity for an engaging and dynamic gameplay experience.
+- **Random Maze Generation:** Every maze is uniquely created for a fresh experience each time. 🔀
+- **Level-Based Challenges:** 
+  - **Button Sequences 🔘:** Press buttons in a specific order to unlock the exit.
+  - **Rotating Platforms 🔄:** Platforms that invert the directions of your movement keys to add a twist to your navigation.
+- **Developed with Unity in C# 💻:** The entire app was built using Unity and C# for a smooth, interactive experience.
+- **Custom Graphics 🎨:** All visual elements, except for the background image and the smile icon, were entirely designed by Michele Bisignano.
 
----
-
-## 🎮 Getting Started
-
-To run Maze-app, follow these steps:
+## 🛠️ Getting Started
 
 1. **Clone the repository:**
+
    ```bash
-   git clone https://github.com/BisyB/maze-app.git
+   git clone https://github.com/your-username/maze-app.git
 2. Run the .exe file
