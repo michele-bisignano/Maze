@@ -21,4 +21,4 @@ The goal of the game is to **reach the finish**. As you progress through the lev
 
    ```bash
    git clone https://github.com/your-username/maze-app.git
-2. Run the .exe file
+2. Run the application and navigate your way through the mazes! 🏁
