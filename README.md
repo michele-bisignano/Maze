@@ -16,20 +16,21 @@ The goal of the game is to **reach the finish**. As you progress through the lev
 - **Developed with Unity in C# 💻:** The entire app was built using Unity and C# for a smooth, interactive experience.
 - **Custom Graphics 🎨:** All visual elements, except for the background image and the smile icon, were entirely designed by Michele Bisignano.
 
-## 🛠️ Getting Started
+🛠️ **How to Install the App**:
 
-1. **Clone the repository:**
+1. Click on the link below to download the app:
+   👉 [Download Maze Game](https://github.com/BisyB/Maze/archive/refs/heads/main.zip)
 
-   ```bash
-   git clone https://github.com/your-username/maze-app.git
-2. Run the application and navigate your way through the mazes! 🏁
+2. Once the ZIP file is downloaded, **extract** the folder to your desired location.
 
+3. Open the extracted folder and **follow the instructions**. Then, **run the .exe** file with the game icon to launch the game.
+
+---
 ## 🏷️ Tags
 
-- **Unity**
-- **C#**
-- **Maze Generator**
-- **Random Generation**
-- **Gaming**
-- **Puzzle**
-
+- 🎮 **Unity**: Game engine used for development.
+- 💻 **C#**: Programming language used for scripting.
+- 🧩 **Maze Generator**: A system for creating random mazes.
+- 🔄 **Random Generation**: Techniques used for generating content.
+- 🕹️ **Gaming**: Interactive entertainment.
+- 🔐 **Puzzle**: Logical challenges to solve.
