@@ -25,7 +25,7 @@ The goal of the game is to **reach the finish**. As you progress through the lev
 
 3. Open the extracted folder and **follow the instructions**. Then, **run the .exe** file with the game icon to launch the game.
 
----
+----
 ## 🏷️ Tags
 
 - 🎮 **Unity**: Game engine used for development.
