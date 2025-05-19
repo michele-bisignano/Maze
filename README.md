@@ -33,7 +33,7 @@ Getting started with **Maze Game** is simple! Follow these steps:
 
 1. **Download the Game**  
    Click the link below to download the latest version of the app:  
-   👉 [Download Maze Game](https://github.com/BisyB/Maze/archive/refs/heads/main.zip)
+   👉 [Download Maze Game](https://github.com/michele-bisignano/Maze/archive/refs/heads/main.zip)
 
 2. **Extract the Files**  
    Once the ZIP file is downloaded, **extract** the folder to your desired location on your device.
